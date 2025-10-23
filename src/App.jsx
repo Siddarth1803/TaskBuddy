@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import TaskForm from './components/TaskForm'
-import TaskList from './components/TaskList'
-import ProgressTracker from './components/ProgressTracker'
+import TaskList from './components/Tasklist'
+import ProgressTracker from './components/Progresstracker'
 
 
 export default function App() {
