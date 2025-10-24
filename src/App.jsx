@@ -31,7 +31,7 @@ const clearTasks = ()=> {
   return (
     <div className='App'>
       <header>
-        <h1 className='title'>Taskify</h1>
+        <h1 className='title'>Task Tracker</h1>
       <p className='tagline'>Your friendly ask Manager</p>
       </header>
       
